@@ -1,45 +1,44 @@
-a=input()
 
+a=input()
 if(a=='I'):
   print("1")
-elif(a=='	II'):
+elif(a=='II'):
   print("2")
-elif(a=='	III'):
+elif(a=='III'):
   print("3")
-elif(a=='	IV'):
+elif(a=='IV'):
   print("4")
-elif(a=='	V'):
+elif(a=='V'):
   print("5")
-elif(a=='	VI'):
+elif(a=='VI'):
   print("6")
-elif(a=='	VII'):
+elif(a=='VII'):
   print("7")
-elif(a=='	VIII'):
+elif(a=='VIII'):
   print("8")
-elif(a=='	IX'):
+elif(a=='IX'):
   print("9")
-elif(a=='	X'):
+elif(a=='X'):
   print("10")
-
-if(a=='XI'):
+elif(a=='XI'):
   print("11")
-elif(a=='	XII'):
+elif(a=='XII'):
   print("12")
-elif(a=='	XIII'):
+elif(a=='XIII'):
   print("13")
-elif(a=='	XIV'):
+elif(a=='XIV'):
   print("14")
-elif(a=='	XV'):
+elif(a=='XV'):
   print("15")
-elif(a=='	XVI'):
+elif(a=='XVI'):
   print("16")
-elif(a=='	XVII'):
+elif(a=='XVII'):
   print("17")
-elif(a=='	XVIII'):
+elif(a=='XVIII'):
   print("18")
-elif(a=='	XIX'):
+elif(a=='XIX'):
   print("19")
-elif(a=='	XX'):
+elif(a=='XX'):
   print("20")
 else:
   print("Invalid Input")
