@@ -1,0 +1,26 @@
+a=input("Enter the No.1")
+b=input("Enter the NO.2")
+
+
+try:
+  p=int(a)
+  q=int(b)
+  
+except :
+  print("Invalid Input")
+  
+else:
+  c=input("Enter the Options\n1.ADD\n2.SUB\n3.MUL\n4.DIV\n5.EXP")
+  if c is '1' :
+    print(p+q)
+  if c is '2' :
+    print(p-q)
+  if c is '3' :
+    print(p*q)
+  if c is '4' :
+    print(p/q)
+  if c is '5' :
+    print(p**q)
+    
+
+  
