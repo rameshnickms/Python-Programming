@@ -13,6 +13,4 @@ else:
       sum*=i
     
     print(sum)
-    
-  else:
-    print("Input is out of Range")
+  
