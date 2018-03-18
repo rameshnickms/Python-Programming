@@ -1,4 +1,4 @@
-a=input("Enter the No")
+a=input()
 sum=1
 try:
   b=int(a)
