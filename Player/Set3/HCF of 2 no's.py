@@ -9,8 +9,9 @@ def HCF(x, y):
             hcf = i
     return hcf
 try:
-  num1 = int(input())
-  num2 = int(input())
+  x, y = input().split(' ')
+  num1=int(x)
+  num2=int(y)
 
 except:
   print("Invalid Input")
