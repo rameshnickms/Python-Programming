@@ -1,0 +1,27 @@
+a=list()
+b=list()
+n=3
+m=2
+o=0
+l=0
+while(n>0):
+  x, y = input("Enter two strings").split(' ')
+  print(x,y)
+  a.append(x)
+  b.append(y)
+  n-=1
+print(a,b)
+
+while(m>=0):
+  if((a[m]=='0')):
+    o+=1
+  elif((b[m]=='0')):
+    l+=1
+  elif(a[m]%i=='0'):
+  m-=1
+  
+if(o==3 or l==3):
+  print("Yes on the Same line")
+else:
+  print("No bez that's on the different line")
+
